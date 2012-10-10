@@ -1,9 +1,7 @@
 {
 	"version":"0.1",
 	"definitions":[
-		{"name":"sampleindex","description":"пример индекса! использовать только для тестирования",
+		{"name":"sampleindex", "type":"github", "description":"пример индекса! использовать только для тестирования",
 			"content":""},
-		{"name":"sampleindex2","description":"пример индекса (2)! использовать только для тестирования",
-			"content":""}
 		]
 }
