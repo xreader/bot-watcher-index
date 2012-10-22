@@ -31,5 +31,6 @@
  "http://dyadka-valerka.livejournal.com/",
  "http://purup.livejournal.com/",
  "http://a-volna.livejournal.com/",
- "http://wdtnjxybr.livejournal.com/"
+ "http://wdtnjxybr.livejournal.com/",
+ "http://valenokx.livejournal.com/"
 ]
